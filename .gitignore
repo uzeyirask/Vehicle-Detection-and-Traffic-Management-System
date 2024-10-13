@@ -1,0 +1,6 @@
+*.mp4
+Yolo-Weights/*
+.venv/
+*.avi
+*.mov
+Videos/*

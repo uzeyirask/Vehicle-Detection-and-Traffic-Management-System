@@ -1,0 +1,10 @@
+C:\Users\uzeyi\desktop\Projem\formApp\Tasarim2Form\bin\Debug\Tasarim2Form.exe.config
+C:\Users\uzeyi\desktop\Projem\formApp\Tasarim2Form\bin\Debug\Tasarim2Form.exe
+C:\Users\uzeyi\desktop\Projem\formApp\Tasarim2Form\bin\Debug\Tasarim2Form.pdb
+C:\Users\uzeyi\desktop\Projem\formApp\Tasarim2Form\obj\Debug\Tasarim2Form.csproj.AssemblyReference.cache
+C:\Users\uzeyi\desktop\Projem\formApp\Tasarim2Form\obj\Debug\Tasarim2Form.Form1.resources
+C:\Users\uzeyi\desktop\Projem\formApp\Tasarim2Form\obj\Debug\Tasarim2Form.Properties.Resources.resources
+C:\Users\uzeyi\desktop\Projem\formApp\Tasarim2Form\obj\Debug\Tasarim2Form.csproj.GenerateResource.cache
+C:\Users\uzeyi\desktop\Projem\formApp\Tasarim2Form\obj\Debug\Tasarim2Form.csproj.CoreCompileInputs.cache
+C:\Users\uzeyi\desktop\Projem\formApp\Tasarim2Form\obj\Debug\Tasarim2Form.exe
+C:\Users\uzeyi\desktop\Projem\formApp\Tasarim2Form\obj\Debug\Tasarim2Form.pdb
