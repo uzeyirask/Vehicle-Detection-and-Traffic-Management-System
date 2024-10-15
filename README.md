@@ -17,7 +17,7 @@ The main goal of this project is to enable real-time vehicle detection and count
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/uzeyirask/Vehicle-Detection-and-Traffic-Management-System.git
+   clone https://github.com/uzeyirask/Vehicle-Detection-and-Traffic-Management-System.git
    
 pip install -r requirements.txt
 
